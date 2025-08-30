@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> меня зовут <a href="https://github.com/Tverskoy31" target="_blank">Женя</a>
 
-<!--
-**Tverskoy31/Tverskoy31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Сертификаты</h3>
 
-Here are some ideas to get you started:
+<details>
+  <summary>Сертификат о прохождении курса «SQL для начинающих специалистов" на базе МФТИ:</summary>
+    <img src="files/sql_sert.png" />
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<details>
+  <summary>Сертификат о прохождении курса "Git: инструменты тестировщика" от LearnQA:</summary>
+    <img src="files/certificateGit.png" />
+</details>
+
+
+---
+
+<details>
+  <summary>Сертификат о прохождении курса "Bash: инструменты тестировщика" от LearnQA:</summary>
+    <img src="files/certificateBash.png" />
+</details>
+
+---
+
+
+<details>
+  <summary>Сертификат о прохождении курса "Тестирование REST API" от Ольги Назиной:</summary>
+    <img src="files/certificateRestApi.png" />
+</details>
+
