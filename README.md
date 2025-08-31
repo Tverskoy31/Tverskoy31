@@ -2,9 +2,12 @@
 
 <h3 align="center">Сертификаты</h3>
 
+
+---
+
 <details>
-  <summary>Сертификат о прохождении курса «SQL для начинающих специалистов" на базе МФТИ:</summary>
-    <img src="files/sql_sert.png" />
+  <summary>Сертификат о прохождении курса "Автоматизация тестирования REST AРІ на Java от LearnQA:</summary>
+    <img src="files/certificateRestApiJava.png" />
 </details>
 
 ---
@@ -24,9 +27,24 @@
 
 ---
 
+<details>
+  <summary>Сертификат о прохождении курса «SQL для начинающих специалистов" на базе МФТИ:</summary>
+    <img src="files/sql_sert.png" />
+</details>
+
+---
+
+<details>
+  <summary>Сертификат о прохождении курса "Автоматизация тестов для REST API при помощи Postman" от Ольги Назиной:</summary>
+    <img src="files/certificateRestApiPostman.png" />
+</details>
+
+---
 
 <details>
   <summary>Сертификат о прохождении курса "Тестирование REST API" от Ольги Назиной:</summary>
     <img src="files/certificateRestApi.png" />
 </details>
+
+
 
