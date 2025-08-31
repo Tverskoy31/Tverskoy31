@@ -33,13 +33,6 @@
 ---
 
 <details>
-  <summary>Курс "SQL для начинающих специалистов" на базе МФТИ:</summary>
-    <img src="files/sql_sert.png" />
-</details>
-
----
-
-<details>
   <summary>Курс "Автоматизация тестов для REST API при помощи Postman" от Ольги Назиной:</summary>
     <img src="files/certificateRestApiPostman.png" />
 </details>
@@ -51,5 +44,10 @@
     <img src="files/certificateRestApi.png" />
 </details>
 
+---
 
+<details>
+  <summary>Курс "SQL для начинающих специалистов" на базе МФТИ:</summary>
+    <img src="files/sql_sert.png" />
+</details>
 
