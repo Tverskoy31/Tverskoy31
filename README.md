@@ -1,14 +1,15 @@
 ### 💬 Обо мне
 <h1 align="center">Привет, я Женя, Fullstack QA Engineer  👋 </h1> 
 
- - :technologist: С 2022 года работаю **Java QA Automation** в компании [**РТК ИТ**]
+ - :technologist: С 2022 года работаю **Java QA Automation** в компании <a href="https://rtkit.ru/">**РТК ИТ**</a>
  - :astronaut: Изучаю автоматизацию тестирования на Java
  - :books: Закончил курс для инженеров по автоматизации тестирования https://qa.guru
 
 ### Опыт
-    - Backend testing (Automation and manual) - 80% time
-    - UI testing - 20 % time
-    - Load testing - sometimes
+    - API автотесты - 35%
+    - UI автотесты - 35%
+    - Ручное тестирование UI+API - 30%
+    
 
 ### My CV 
 [На hh.ru](https://hh.ru/resume/f647144cff0af131730039ed1f316b4d303936)
