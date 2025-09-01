@@ -93,7 +93,7 @@
 ---
 
 <details>
-  <summary><a name="Курс "Автоматизация тестирования на Java" от QAGURU (08.2024г.)></a></summary>
+  <summary>Курс "Автоматизация тестирования на Java" от QAGURU (08.2024г.)</summary>
     <img src="files/QAGuruJava.png" />
 </details>
 
