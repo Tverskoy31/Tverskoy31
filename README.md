@@ -1,5 +1,38 @@
-### 💬 Обо мне:
-<h1 align="center">Привет, я Женя, Fullstack QA Engineer  👋 </h1>
+### 💬 Обо мне
+<h1 align="center">Привет, я Женя, Fullstack QA Engineer  👋 </h1> 
+
+ - :technologist: С 2022 года работаю **Java QA Automation** в компании [**РТК ИТ**]
+ - :astronaut: Изучаю автоматизацию тестирования на Java
+ - :books: Закончил курс для инженеров по автоматизации тестирования https://qa.guru
+
+### Опыт
+    - Backend testing (Automation and manual) - 80% time
+    - UI testing - 20 % time
+    - Load testing - sometimes
+
+### My CV 
+[На hh.ru](https://hh.ru/resume/f647144cff0af131730039ed1f316b4d303936)
+
+### Связаться со мной можно тут
+
+  <a href="https://t.me/medvedevep">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+
+  <a href="mailto:medvedev-qa@mail.ru">
+    <img src="https://img.shields.io/badge/@mail.ru-blue?style=for-the-badge&logo=mail&logoColor=white" alt="mail Badge"/>
+
+
+  <a href="https://www.linkedin.com/in/medvedev-evgeny/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+
+
+  <a href="https://github.com/Tverskoy31"> 
+    <img  src="https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=mail&logoColor=white" alt="GitHub" />
+
+    
+  <a href="https://career.habr.com/tverskoy31">
+    <img src="https://img.shields.io/badge/habr career-blue?&style=for-the-badge&logo=mail&logoColor=white"  alt="Habr" />
+  
 
 
 ### 🎓 Образование: высшее техническое
@@ -107,4 +140,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tverskoy31&show_icons=true&bg_color=00000000)
+
+### Моя статистика:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tverskoy31&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tverskoy31&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tverskoy31&theme=algolia)
