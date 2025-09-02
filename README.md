@@ -16,7 +16,7 @@
     
 
 ### Резюме 
-Посмотреть на [hh.ru](https://hh.ru/resume/f647144cff0af131730039ed1f316b4d303936); посмотреть в [гугл доке](https://docs.google.com/document/d/1WKD2R_tSI9F0Xe3Kad1GpMHp-yPHEVhk/edit)
+Посмотреть на [hh.ru](https://hh.ru/resume/f647144cff0af131730039ed1f316b4d303936), посмотреть в [гугл доке](https://docs.google.com/document/d/1WKD2R_tSI9F0Xe3Kad1GpMHp-yPHEVhk/edit)
 
 ### Связаться со мной можно тут
 
